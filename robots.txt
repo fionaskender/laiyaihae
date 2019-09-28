@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eiphieluuk.karenkaede.com/sitemap.xml
